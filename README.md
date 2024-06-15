@@ -1,5 +1,4 @@
-Ariel Nathan
-============
+# Ariel Nathan
 
 Software Engineer
 
@@ -7,8 +6,6 @@ Software Engineer
 
 [LinkedIn](https://www.linkedin.com/in/ariel-nathan/)
 
-[GitHub](https://github.com/ariel-nathan)
-
-**Contact Me**
+[Website](https://arielnathan.com)
 
 [me@arielnathan.com](mailto:me@arielnathan.com)
